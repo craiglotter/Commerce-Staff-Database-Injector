@@ -1,0 +1,12 @@
+Commerce Staff Database Injector
+
+All Commerce websites now use a single Access database to generate their staff listing pages off. In order to speed up the manual process of putting all information into the database, one record at a time, Commerce Staff Database Injector parses a specially formatted text file and injects the records directly into the database.
+
+To run this application, simply select a valid input text file (samples included in the installation folder) as well as the Staff database in which to insert the data into (again, sample database is included in the installation folder).
+
+To start the operation, simply click on the Begin button. 
+
+The help and about menu options brings up the help and about dialog boxes respectively.
+
+
+-- Last Updated: 16/09/2008 --

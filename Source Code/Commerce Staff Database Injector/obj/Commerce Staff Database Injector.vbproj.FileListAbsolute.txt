@@ -1,0 +1,14 @@
+C:\Work Projects\Completed Projects\Commerce Staff Database Injector - 16 September 2008\Source Code\Commerce Staff Database Injector\bin\Release\Commerce Staff Database Injector.exe.config
+C:\Work Projects\Completed Projects\Commerce Staff Database Injector - 16 September 2008\Source Code\Commerce Staff Database Injector\bin\Release\Commerce Staff Database Injector.exe
+C:\Work Projects\Completed Projects\Commerce Staff Database Injector - 16 September 2008\Source Code\Commerce Staff Database Injector\bin\Release\Commerce Staff Database Injector.pdb
+C:\Work Projects\Completed Projects\Commerce Staff Database Injector - 16 September 2008\Source Code\Commerce Staff Database Injector\bin\Release\Commerce Staff Database Injector.xml
+C:\Work Projects\Completed Projects\Commerce Staff Database Injector - 16 September 2008\Source Code\Commerce Staff Database Injector\obj\Release\ResolveAssemblyReference.cache
+C:\Work Projects\Completed Projects\Commerce Staff Database Injector - 16 September 2008\Source Code\Commerce Staff Database Injector\obj\Release\Commerce_Staff_Database_Injector.AboutBox1.resources
+C:\Work Projects\Completed Projects\Commerce Staff Database Injector - 16 September 2008\Source Code\Commerce Staff Database Injector\obj\Release\Commerce_Staff_Database_Injector.Display_Message.resources
+C:\Work Projects\Completed Projects\Commerce Staff Database Injector - 16 September 2008\Source Code\Commerce Staff Database Injector\obj\Release\Commerce_Staff_Database_Injector.HelpBox1.resources
+C:\Work Projects\Completed Projects\Commerce Staff Database Injector - 16 September 2008\Source Code\Commerce Staff Database Injector\obj\Release\Commerce_Staff_Database_Injector.Main_Screen.resources
+C:\Work Projects\Completed Projects\Commerce Staff Database Injector - 16 September 2008\Source Code\Commerce Staff Database Injector\obj\Release\Commerce_Staff_Database_Injector.Resources.resources
+C:\Work Projects\Completed Projects\Commerce Staff Database Injector - 16 September 2008\Source Code\Commerce Staff Database Injector\obj\Release\Commerce Staff Database Injector.vbproj.GenerateResource.Cache
+C:\Work Projects\Completed Projects\Commerce Staff Database Injector - 16 September 2008\Source Code\Commerce Staff Database Injector\obj\Release\Commerce Staff Database Injector.exe
+C:\Work Projects\Completed Projects\Commerce Staff Database Injector - 16 September 2008\Source Code\Commerce Staff Database Injector\obj\Release\Commerce Staff Database Injector.xml
+C:\Work Projects\Completed Projects\Commerce Staff Database Injector - 16 September 2008\Source Code\Commerce Staff Database Injector\obj\Release\Commerce Staff Database Injector.pdb

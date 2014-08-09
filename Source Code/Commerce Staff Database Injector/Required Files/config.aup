@@ -1,0 +1,3 @@
+APPLICATION_NAME=Commerce Staff Database Injector
+EXECUTABLE=Commerce Staff Database Injector.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Commerce Staff Database Injector/manifest.xml

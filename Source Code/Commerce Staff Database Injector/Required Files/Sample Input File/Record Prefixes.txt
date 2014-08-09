@@ -1,0 +1,17 @@
+--
+CSFirstname=
+CSLastname=
+CSTitle=
+CSQualifications=
+CSPosition=
+CSExtraText=
+CSEmail=
+CSPhone=
+CSFax=
+CSOffice=
+CSPersonalPage=
+CSDepartment=
+CSDepartmentSection=
+CSRanking=
+CSActive=
+--
